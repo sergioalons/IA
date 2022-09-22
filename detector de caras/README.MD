@@ -1,5 +1,7 @@
 ### Sistema de detección de caras, nariz, boca y ojos en rostros hecho en OpenCV
 
+Sergio Alonso Cabello.
+
 Todos los archivos de datos de los clasificadores de las diferentes partes han sido obtenidos de 
 https://github.com/kipr/opencv/tree/master/data/haarcascades
 
